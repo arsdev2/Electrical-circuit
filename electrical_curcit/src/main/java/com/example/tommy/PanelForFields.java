@@ -1,3 +1,5 @@
+package com.example.tommy;
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
@@ -9,7 +11,7 @@ public class PanelForFields extends JPanel{
 	private static final long serialVersionUID = 1L;
 	public static int Width = 200;
 	public static int Height = 400;
-	private JLabel labelFields = new JLabel("Панель інструментів");
+	private JLabel labelFields = new JLabel("пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
 	private JScrollPane scroll = new JScrollPane();
 	
 	public PanelForFields() {

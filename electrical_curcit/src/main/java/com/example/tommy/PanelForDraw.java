@@ -1,3 +1,5 @@
+package com.example.tommy;
+
 import java.awt.Color;
 
 import javax.swing.JPanel;
